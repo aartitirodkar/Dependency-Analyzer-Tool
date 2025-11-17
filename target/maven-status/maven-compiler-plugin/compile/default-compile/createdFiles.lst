@@ -1,0 +1,12 @@
+com\dependencyanalyzer\DependencyAnalyzer.class
+com\dependencyanalyzer\visualization\GraphGenerator$GraphData.class
+com\dependencyanalyzer\model\DependencyInfo.class
+com\dependencyanalyzer\analyzer\LibraryDependencyAnalyzer.class
+com\dependencyanalyzer\analyzer\ConfigDependencyAnalyzer.class
+com\dependencyanalyzer\visualization\GraphGenerator$GraphLink.class
+com\dependencyanalyzer\DependencyAnalyzerMain.class
+com\dependencyanalyzer\model\DependencyInfo$DependencyType.class
+com\dependencyanalyzer\analyzer\FeignClientAnalyzer.class
+com\dependencyanalyzer\analyzer\FileDependencyAnalyzer.class
+com\dependencyanalyzer\visualization\GraphGenerator$GraphNode.class
+com\dependencyanalyzer\visualization\GraphGenerator.class
