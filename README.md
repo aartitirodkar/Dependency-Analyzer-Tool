@@ -17,5 +17,6 @@ To run the project please follow the below instructions:
 3. import the project to intellij
 4. put all the necessary paths to intellij like JDK.
 5. DependencyAnalyzerMain class from the project
-6. dependency-graph.html as a report file will get generated in the same folder structure.
-7. Open the dependency-graph.html in the browser.
+6. Or else you can also directly run the main file from CLI by going to the project directory.
+7. dependency-graph.html as a report file will get generated in the same folder structure.
+8. Open the dependency-graph.html in the browser.
